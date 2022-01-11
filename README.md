@@ -26,4 +26,4 @@ You can disable it by just deleting that line. There will be a delay of 2s after
 
 ## CAD Models
 
-I have also uploaded the CAD files for the robot, the same is also uploaded in the [hackster site] for the project.
+I have also uploaded the CAD files for the robot, the same is also uploaded in the [hackster site](https://www.hackster.io/rbnsmathew/simple-quadruped-robot-ebe1fd) for the project.
