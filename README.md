@@ -19,6 +19,11 @@ The first three are from the libraries of CircuitPython. The ones on this repost
 
 Now paste the code.py file into the root of the drive. Do not rename the files.
 
+The CustomLib.py file contains a list of parameters that can characterise the movement, like step time, length of strides, max height leg should rise and such.
+
+The code.py file contains a line of code that waits for and Enter key press from user on REPL console. This was done to prevent the robot just starting everytime it's plugged in.
+You can disable it by just deleting that line. There will be a delay of 2s after code starts before the robot starts moving. This can also be edited as per need.
+
 ## CAD Models
 
 I have also uploaded the CAD files for the robot, the same is also uploaded in the [hackster site] for the project.
