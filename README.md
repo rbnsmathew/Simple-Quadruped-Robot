@@ -15,7 +15,7 @@ Plug in the Pi Pico after installing Circuitpython, you will get access to a dri
 3. adafruit_pca9685.mpy
 4. CustomLib.py
 
-The first three are from the libraries of CircuitPython. The ones on this repostiory works fine but your free to download the latest version of the CircuitPython and the updated libraries from their [official site](https://circuitpython.org/).
+The first three are from the libraries of CircuitPython. The ones on this repository works fine but your free to download the latest version of the CircuitPython and the updated libraries from their [official site](https://circuitpython.org/).
 
 Now paste the code.py file into the root of the drive. Do not rename the files.
 
