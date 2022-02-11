@@ -5,7 +5,7 @@ Code and CAD models for a Simple Quadruped Robot.
 
 The code is written on CircuitPython, which is a stripped down version of Python, made for low power microcontroller boards.
 The steps to install CircuitPython on RP2040 boards, such as Raspberry Pi Pico can be found [here](https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython).
-The editor I used is called Mu, it is a pretty lightweight, simple enough editor thats works with microcontrollers. It can be installed from [here](https://codewith.mu/).
+The editor I used is called Mu, it is a pretty lightweight, simple enough editor that works with microcontrollers. It can be installed from [here](https://codewith.mu/).
 
 ## Transferring Files to Pi Pico
 Plug in the Pi Pico after installing Circuitpython, you will get access to a drive on the Pi Pico. Open the lib folder and paste these files and folders:
