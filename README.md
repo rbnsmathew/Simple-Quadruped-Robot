@@ -1,6 +1,10 @@
 # Simple-Quadruped-Robot
 Code and CAD models for a Simple Quadruped Robot.
 
+[Project details on Hackster.io](https://www.hackster.io/rbnsmathew/simple-quadruped-robot-ebe1fd)
+
+<img src="assets\robot.jpg" alt="Robot" width="500"/>
+
 ## Installing Circuitpython and Mu
 
 The code is written on CircuitPython, which is a stripped down version of Python, made for low power microcontroller boards.
